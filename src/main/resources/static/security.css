@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+body {
+    background: url("library.jpg") no-repeat center center fixed;
+    background-size: cover;
+    font-family: Helvetica, sans-serif;
+}
+
+.wrapper {
+	padding-left:700px;
+	padding-top: 200px;
+	
+}
+
+input[type=submit] {
+  background-color:#6dae67;
+  color: white;
+  padding: 12px;
+  width: 261px;
+  margin-top: 15px;
+  margin-left:60px;
+  margin-right:60px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: right;
+}
+
+.container {
+	
+  width: 400px;
+  height: 250px;	
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
